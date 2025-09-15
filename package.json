@@ -1,0 +1,21 @@
+{
+  "name": "ai-hr-glow-79-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^5.87.1",
+    "@tanstack/react-query-devtools": "^5.87.3",
+    "axios": "^1.11.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0",
+    "nodemo": "^1.0.0"
+  }
+}
